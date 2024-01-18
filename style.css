@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    border-bottom: 1px solid black;
+    border-color: rgb(204, 195, 195);
+}
+
+.box{
+    display: inline-block;
+    width: 10%;
+    margin: 6px;
+    cursor: pointer;
+}
+
+#upwork-icon{
+    margin: 10px  auto;
+}
+
+p{
+    display: inline-block;
+    margin: 0.5em;
+    margin-top: 1.5em;
+    margin-right: 1.5em;
+    font-size: 1.1em;
+    color: rgb(78, 77, 77);
+}
+
+.input-btn{
+    display: inline-block;
+    margin: 1em 0px 0px 9%;
+}
+
+.input-btn img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 30px;
+    margin-left: 6px;
+}
+
+input{
+    padding: 0.5em;
+    border-radius: 50px;
+    margin-left: 30px;
+}
+input[placeholder="Search"]{
+    font-size: 16px;
+    font-weight: 550;
+    padding: 10px;
+    border: 2px solid rgb(201, 192, 192);
+}
+
+input:hover{
+    background-color: rgb(230, 230, 239);
+}
+.btn1{
+    border-radius: 50px;
+    padding: 0.5em;
+    font-size: 0.9em;
+    border: 2px solid rgb(201, 192, 192);
+}
+.btn1:hover{
+    background-color: rgb(230, 230, 239);
+}
+
+.btn2{
+    border-radius: 50px;
+    padding: 0.5em;
+    font-size: 0.9em;
+    border-style: none;
+    background-color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.btn3{
+    border-radius: 50px;
+    padding: 0.5em 0.5em;
+    font-size: 0.9em;
+    margin: 5px;
+    width: 6rem;
+    height: 2.5rem;
+    background-color: rgb(6, 162, 6);
+    color: white;
+    border-style: none;
+    cursor: pointer;
+}
+
+.option{
+    font-size: 0.8em;
+    margin: 0.4em 10px 10px;
+    font-weight: bold;
+    color: rgb(81, 79, 79);    
+}
+#dropdown{
+    margin-top: 1.6%;
+    margin-left: 3px;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 10px;
+    min-width: 100px;
+}
+
+.img-1{
+    display: flex;
+    display: inline-block;
+    margin: 4% 5%;
+    height: 50vh;
+}
+#first-input-btn{
+    margin-right: 9%;
+    display: inline-block;
+    padding: 12px;
+    width: 20%;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: rgb(6, 162, 6);   
+    color: white;
+    border-style: none;
+    cursor: pointer;
+}
+
+#img{
+    float: right;
+    margin-top: -30%;
+}
+
+.img-3{
+    margin: 10px 60px 10px;
+    width: 200px;
+}
+.img-4{
+    margin-left: 11vw;
+}
+.img-5{
+    margin-left: 11vw;
+}
+.img-6{
+    margin-left: 11vw;
+}
+.img-7{
+    margin-left: 11vw;
+}
+.img-8{
+    margin-left: 25vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.img-9{
+    margin-left: 25vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.img-10{
+    margin-left: 20%;
+}
+
+
+
+
+
+
